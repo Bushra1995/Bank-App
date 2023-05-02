@@ -3,7 +3,6 @@ import { useState } from 'react';
 import Cards from './Cards';
 
 const Main = () => {
-
     const initState = {
         accounts: [
             {
